@@ -38,7 +38,7 @@
         <redis.clients.version>2.7.3</redis.clients.version>
         <com.dyuproject.protostuff.version>1.0.8</com.dyuproject.protostuff.version>
         <developer.organization><![CDATA[scengine]]></developer.organization>
-        <org.apache.poi.version>3.13</org.apache.poi.version>
+        <org.apache.poi.version>4.1.2</org.apache.poi.version>
         <kotlin.version>1.2.21</kotlin.version>
     </properties>
 
